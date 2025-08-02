@@ -68,12 +68,15 @@ Spring Boot service integrated with Google’s Gemini AI API for AI-powered emai
 
 ## 🐍 Snake Game Animation
 
-<div align="center">
+<!--<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soubhagya1919/Soubhagya1919/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soubhagya1919/Soubhagya1919/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Soubhagya1919/Soubhagya1919/output/github-contribution-grid-snake.svg" />
   </picture>
+</div> -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ## 🌐 Connect with Me
