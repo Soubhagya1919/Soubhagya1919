@@ -2,7 +2,7 @@
   <h1>👋 Hello, I’m Soubhagya Mohapatra</h1>
   <p>Software Developer | Java · Spring Boot · Microservices · AWS</p>
   <!-- Make sure you upload a banner image named banner.png in the root of your GitHub profile repo -->
-  <img src="Git Logo.gif" alt="Banner" width="100" height="100"/>
+  <img src="Github bubble Lottie JSON animation.gif" alt="Banner" width="150" height="150"/>
 </div>
 
 ## 🚀 About Me
