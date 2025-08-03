@@ -67,7 +67,7 @@ Spring Boot service integrated with Google’s Gemini AI API for AI-powered emai
 - 🛠️ Build and deploy a production-ready microservices platform  
 - ✍️ Publish 10 technical blog posts on backend best practices  
 
-## 🐍 Watch Snake eating my github contributions...
+## 🐍 Watch a Snake eating my github contributions...
 
 <!--<div align="center">
   <picture>
