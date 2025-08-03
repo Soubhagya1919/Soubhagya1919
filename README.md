@@ -1,3 +1,4 @@
+![MasterHead](https://camo.githubusercontent.com/069e3ef2850e722ccaef748bf8cdadafeed9fd4a9ee1436daebd7e820f4402a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)
 <div align="center">
   <h1>👋 Hello, I’m Soubhagya Mohapatra</h1>
   <p>Software Developer | Java · Spring Boot · Microservices · AWS</p>
@@ -75,9 +76,7 @@ Spring Boot service integrated with Google’s Gemini AI API for AI-powered emai
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Soubhagya1919/Soubhagya1919/output/github-contribution-grid-snake.svg" />
   </picture>
 </div> -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/Soubhagya1919/Soubhagya1919/output/snake.svg" width = 1500 alt="Snake animation" />
 
 ## 🌐 Connect with Me
 
