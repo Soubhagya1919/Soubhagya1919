@@ -3,7 +3,7 @@
   <h1>👋 Hello, I’m Soubhagya Mohapatra</h1>
   <p>Software Developer | Java · Spring Boot · Microservices · AWS</p>
   <!-- Make sure you upload a banner image named banner.png in the root of your GitHub profile repo -->
-  <img src="Git Logo.gif" alt="Banner" width="150" height="150"/>
+  <img src="Git Logo.gif" alt="Banner" width="100" height="100"/>
 </div>
 
 ## 🚀 About Me
@@ -67,7 +67,7 @@ Spring Boot service integrated with Google’s Gemini AI API for AI-powered emai
 - 🛠️ Build and deploy a production-ready microservices platform  
 - ✍️ Publish 10 technical blog posts on backend best practices  
 
-## 🐍 Snake Game Animation
+## 🐍 Watch Snake eating my github contributions...
 
 <!--<div align="center">
   <picture>
