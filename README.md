@@ -39,7 +39,7 @@ Results-driven Backend Developer with 2+ years building scalable Java/Spring Boo
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Soubhagya1919&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soubhagya1919&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Soubhagya1919&theme=tokyonight" alt="GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soubhagya1919&theme=tokyonight%22%20alt=%22GitHub%20Streak)"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soubhagya1919&theme=tokyonight%22%20alt=%22GitHub%20Streak" alt="GitHub Streak"/>
 </div>
 
 ## 🏆 Featured Projects
